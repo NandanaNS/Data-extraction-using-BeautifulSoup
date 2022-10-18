@@ -3,3 +3,4 @@ Extracting data from webpage and preprocessing to create a single data frame.
 
 The python code parses all the links in the webpage to extract data in the desired format combining them to a single table. Similarly repeating for all 14 districts.
 Conducting analysis to find out the student teacher ratio on the extracted data to classify schools having lower and higher student to teacher ratio for LP, UP and High School category after classifyig the teachers into LP, UP, High School based on their designation.
+Also analysing the student to computer ratio, english medium and malayalam medium students ratio, schools without facilities like smart class rooom, electricity, water etc for each school.
